@@ -1,10 +1,9 @@
-# Sistema de consúltas médicas
+# Sistema de consultas médicas
 
 ## Sobre
-  Sistema para conrole e agendamento de consultas médicas
+  Frontend de um sistema para conrole e agendamento de consultas médicas.
 
 ## Estrutura do projeto
-
   * index.html: SPA
   * css/
   * doc/
@@ -17,4 +16,7 @@
   * json/
   * lib/
 
-
+## Bibliotecas utilizadas neste projeto
+  * skeleton (alternativa ao bootstrap)
+  * vue (alternativa ao angularjs)
+  * zepto (alternatica ao jquery)
