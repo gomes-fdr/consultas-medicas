@@ -11,12 +11,16 @@
   * img/
   * js/
     * app.js
-    * model/
-    * controller/
   * json/
   * lib/
 
 ## Bibliotecas utilizadas neste projeto
   * skeleton (alternativa ao bootstrap)
-  * vue (alternativa ao angularjs)
+  * angularjs
   * zepto (alternatica ao jquery)
+
+## Para testar este app
+
+`` $ npm install http-server -g ``
+`` $ cd my-app ``
+`` $ http-server ``
