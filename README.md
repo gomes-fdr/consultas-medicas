@@ -22,5 +22,9 @@
 ## Para testar este app
 
 `` $ npm install http-server -g ``
+
+
 `` $ cd my-app ``
+
+
 `` $ http-server ``
